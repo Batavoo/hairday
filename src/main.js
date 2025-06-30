@@ -8,4 +8,5 @@ import "./styles/form.css";
 import "./styles/global.css";
 import "./styles/schedule.css";
 
-import dayjs from "dayjs";
+// JS
+import "./modules/form/submit.js";
